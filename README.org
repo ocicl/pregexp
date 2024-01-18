@@ -1,0 +1,12 @@
+* pregexp
+
+pregexp is a portable implementation of regular expressions (regexps)
+that runs in any R5RS- or R4RS-compliant implementation of the
+programming language Scheme, and in Common Lisp.
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/uternet/pregexp.git |
+| commit  | 70fb2d9                                    |
+| systems | pregexp                                    |
+|---------+--------------------------------------------|
+
